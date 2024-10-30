@@ -1,0 +1,70 @@
+body {
+  color: #f5f5f5;
+  background: #1e1e2f;
+  margin: 0px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+  
+  border-bottom: solid 2px #9b59b6;
+  padding: 40px;
+  font-size: 80px;
+  color: #ff6b6b;
+}
+
+
+.chamada {
+ 
+  background: #6c5ce7;
+  padding-bottom: 70px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.texto-principal {
+  padding: 20px;
+  color: #81ecec;
+}
+
+h1 {
+ font-size: 60px;
+ color: #f5f5f5;
+}
+
+p {
+font-size: 30px;
+color: #f5f5f5;
+}
+
+img {
+height: 200px;
+border: 2px solid #74b9ff;
+}
+
+.categoria-filmes {
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+
+.categoria {
+
+ padding-left: 20px;
+ padding-right: 10px;
+}
+
+.categoria-filmes img {
+  opacity: 0.5;
+  height: 200px;
+}
+
+.categoria-filmes img:hover {
+  opacity: 1.0;
+  border: 3px solid rgb(245, 6, 205);
+}
+
+.categoria h2 {
+  color: rgb(255, 3, 150);
+}
