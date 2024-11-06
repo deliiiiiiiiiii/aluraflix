@@ -3,13 +3,14 @@ body {
   background: #1e1e2f;
   margin: 0px;
   font-family: "Bebas Neue", sans-serif;
+  margin-bottom: 100px;
 }
 
 header {
   
   border-bottom: solid 2px #9b59b6;
-  padding: 40px;
-  font-size: 80px;
+  padding: 20px;
+  font-size: 72px;
   color: #ff6b6b;
 }
 
